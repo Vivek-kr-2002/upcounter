@@ -1,0 +1,3 @@
+# THIS IS A UPCOUNTER THAT COUNTS FROM 0 TO 99 AND THEN RESETS ITSELF.#
+## THE HARDWARE USED ARE: 8051 MICROCONTROLLER , 2 X SEVEN SEGMENTS DISPLAYS AND 2 BCD DECODER ICs.##
+You can upload the code in proteus software and run simulation there itself.
