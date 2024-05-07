@@ -1,11 +1,10 @@
 // this is a code for 2 7-segment display using bcd decoders
 /*
 **********************************************************************************************************************************************************
-AUTHOR: PUSHKAL AGARWAL
-ROLL NUMBER:	2001034
+AUTHOR: VIVEK KUMAR
+ROLL NUMBER:	2001030
 INSTITUTE:	INDIAN INSTITUTE OF INFORMATION TECHNOLOGY, BHAGALPUR
 DEPARTMENT:	ELECTRONICS AND COMMUNICATION ENGINEERING
-DATE:	20-11-2022
 
 **********************************************************************************************************************************************************
 */
